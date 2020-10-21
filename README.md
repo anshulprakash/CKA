@@ -1,2 +1,2 @@
 # CKA
-repo for cka exam prep 1.19
+repo with notes and useful tips for cka exam prep 1.19
