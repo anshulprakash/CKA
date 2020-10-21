@@ -30,7 +30,7 @@ kubectl run will always create a Pod and the --restart=X sets the Pod Restar
 ### Complex
 
 ```
-# we generate a deployment into a file
+# we generate deployment into a file
 k create deploy deploy1 -oyaml --image=busybox --dry-run=client > deploy1.yaml
 
 # generate pod yaml and append to same file
