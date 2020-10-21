@@ -1,5 +1,7 @@
 # Kubectl Faster
 
+Some tips for using kubectl faster
+
 ## Setup
 
 - ```alias k=kubectl```
