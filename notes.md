@@ -1,5 +1,7 @@
 # Notes
 
+Some important points based on mock tests
+
 ## Cluster Information
 
 ### To get pod cidrs of nodes
